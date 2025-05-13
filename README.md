@@ -36,11 +36,6 @@ Hi, I'm MD Anas Miah, a passionate **DevOps Engineer** and **IT Programmer** wit
 ### 🚀 **End-to-End CI/CD Pipeline for Microservices Architecture** 
 - **Description:** ⚙️ A robust, scalable, and secure CI/CD solution built for modern cloud-native applications.
 
-
-## 📈 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
 ## 🔗 Let's Connect!
 
 Feel free to reach out if you’d like to collaborate or chat about tech!
