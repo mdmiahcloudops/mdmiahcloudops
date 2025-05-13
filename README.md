@@ -39,15 +39,16 @@ Hi, I'm MD Anas Miah, a passionate DevOps Engineer and IT Programmer with a stro
   🧠 Project Overview
 Designed and implemented a production-grade CI/CD pipeline tailored for a Kubernetes-based microservices environment. This solution enables automated testing, secure deployments, and GitOps-style rollouts with a strong focus on resilience, observability, and DevSecOps best practices.
 
- Key Features
-🔁 GitOps-driven deployment strategy with multi-branch pipeline support
-🎯 Support for canary, blue-green, and rolling updates via ArgoCD
-🛡️ Security gates with Trivy, SonarQube, and Vault
-📦 Automated artifact publishing to Nexus
-🧪 Integrated unit, integration, and compliance testing stages
-🔔 Slack & Teams notifications for build, test, and deploy events
-🔐 Role-based access control (RBAC) and audit logging
-📈 Real-time monitoring and alerts via Prometheus and Grafana
+### 🔑 Key Features
+
+- 🔁 GitOps-driven deployment strategy with multi-branch pipeline support  
+- 🎯 Support for canary, blue-green, and rolling updates via **ArgoCD**  
+- 🛡️ Security gates with **Trivy**, **SonarQube**, and **Vault**  
+- 📦 Automated artifact publishing to **Nexus**  
+- 🧪 Integrated unit, integration, and compliance testing stages  
+- 🔔 Slack & Microsoft Teams notifications for build, test, and deploy events  
+- 🔐 Role-based access control (**RBAC**) and audit logging  
+- 📈 Real-time monitoring and alerts via **Prometheus** and **Grafana**
 
 
 ## 🔗 Let's Connect!
