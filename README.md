@@ -50,11 +50,3 @@ Feel free to reach out if you’d like to collaborate or chat about tech!
 
 ---
 
-### Animation Gifs and DevOps Tools Logos:
-1. **DevOps Animation Gif**:
-   - You can search for animations on Giphy or use a simple DevOps-related animation (like the one above).
-   
-2. **Tool Logos**:
-   - Each badge logo is pulled from Shields.io, a service that generates logo-based badges for your README. Feel free to replace them with the logos that best represent your expertise.
-
----
