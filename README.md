@@ -1,8 +1,14 @@
 <h1> Hey there, Welcome to My Code Playground! 🎉👾 </h1>
 Hi, I'm MD Anas Miah, a passionate **DevOps Engineer** and **IT Programmer** with a strong background in cloud infrastructure, automation, and full-stack development. Below you'll find an overview of my skills, tools I use, and projects I've worked on.
 
-![DevOps Animation](https://media.giphy.com/media/3o6nVNeSPJemZjzpAO/giphy.gif)
-## 🌟 About Me
+<p align="center">
+  <img src="https://your-image-url.com/profile.gif" width="200" alt="Profile Photo" style="border-radius: 50%; box-shadow: 0 0 20px #00ffff;">
+</p>
+
+<p align="center">
+  <b>Hi, I'm [Your Name] 👋</b><br/>
+  DevOps | Cloud Engineer | Automation Enthusiast  
+</p>## 🌟 About Me
 
 - 🚀 **DevOps Expert** with hands-on experience in **AWS**, **CI/CD**, **Automation**, and **Security**.
 - 💻 Experienced in **front-end** and **back-end** development using **React**, **Node.js**, **Java**, **Python**, and **JavaScript**.
