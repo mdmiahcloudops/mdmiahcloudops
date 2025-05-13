@@ -1,5 +1,5 @@
 <h1> Hey there, Welcome to My Code Playground! 🎉👾 </h1>
-Hi, I'm MD Anas Miah, a passionate **DevOps Engineer** and **IT Programmer** with a strong background in cloud infrastructure, automation, and full-stack development. Below you'll find an overview of my skills, tools I use, and projects I've worked on.
+Hi, I'm MD Anas Miah, a passionate DevOps Engineer and IT Programmer with a strong background in cloud infrastructure, automation, and full-stack development. Below you'll find an overview of my skills, tools I use, and projects I've worked on.
 
 
 - 🚀 **DevOps Expert** with hands-on experience in **AWS**, **CI/CD**, **Automation**, and **Security**.
