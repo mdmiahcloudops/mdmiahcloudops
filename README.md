@@ -45,9 +45,8 @@ Hi, I'm MD Anas Miah, a passionate **DevOps Engineer** and **IT Programmer** wit
 
 Feel free to reach out if you’d like to collaborate or chat about tech!
 
-- 📧 **Email:** your.email@example.com
-- 🌐 **LinkedIn:** [Your LinkedIn](#)
-- 💬 **Twitter:** [Your Twitter](#)
+- 📧 **Email:** mdmiah.cloudops@gmail.com
+- 🌐 **LinkedIn:** [https://www.linkedin.com/in/md-a-miah/](#)
 
 ---
 
