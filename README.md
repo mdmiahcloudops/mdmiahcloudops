@@ -45,7 +45,6 @@ Hi, I'm MD Anas Miah, a passionate DevOps Engineer and IT Programmer with a stro
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="50">
 </div>
 <br><br>    
-
 ### **Cloud & Database Tools** ☁️
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -71,9 +70,7 @@ Designed and implemented a production-grade CI/CD pipeline tailored for a Kubern
 - 🔐 Role-based access control (**RBAC**) and audit logging  
 - 📈 Real-time monitoring and alerts via **Prometheus** and **Grafana**
 
-
 ## 🔗 Let's Connect!
-
 Feel free to reach out if you’d like to collaborate or chat about tech!
 
 - 📧 **Email:** mdmiah.cloudops@gmail.com
