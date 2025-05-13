@@ -36,6 +36,9 @@ Hi, I'm MD Anas Miah, a passionate DevOps Engineer and IT Programmer with a stro
 ### 🚀 **End-to-End CI/CD Pipeline for Microservices Architecture** 
 - **Description:** ⚙️ A robust, scalable, and secure CI/CD solution built for modern cloud-native applications.
 
+  🧠 Project Overview
+Designed and implemented a production-grade CI/CD pipeline tailored for a Kubernetes-based microservices environment. This solution enables automated testing, secure deployments, and GitOps-style rollouts with a strong focus on resilience, observability, and DevSecOps best practices.
+
 ## 🔗 Let's Connect!
 
 Feel free to reach out if you’d like to collaborate or chat about tech!
