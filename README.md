@@ -2,7 +2,6 @@
 Hi, I'm MD Anas Miah, a passionate **DevOps Engineer** and **IT Programmer** with a strong background in cloud infrastructure, automation, and full-stack development. Below you'll find an overview of my skills, tools I use, and projects I've worked on.
 
 ![DevOps Animation](https://media.giphy.com/media/3o6nVNeSPJemZjzpAO/giphy.gif)
-
 ## 🌟 About Me
 
 - 🚀 **DevOps Expert** with hands-on experience in **AWS**, **CI/CD**, **Automation**, and **Security**.
