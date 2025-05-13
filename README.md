@@ -35,18 +35,7 @@ Hi, I'm MD Anas Miah, a passionate **DevOps Engineer** and **IT Programmer** wit
 
 ### 🚀 **End-to-End CI/CD Pipeline for Microservices Architecture** 
 - **Description:** ⚙️ A robust, scalable, and secure CI/CD solution built for modern cloud-native applications.
-- **Technologies Used:** React, Node.js, MongoDB, AWS.
-- **Link to project:** [View Project](#)
 
-### 💻 **[Project Name]** 
-- **Description:** A brief description of the project highlighting the key technologies used.
-🧠 Project Overview
-Designed and implemented a production-grade CI/CD pipeline tailored for a Kubernetes-based microservices environment. This solution enables automated testing, secure deployments, and GitOps-style rollouts with a strong focus on resilience, observability, and DevSecOps best practices.
-
-### 🧑‍💻 **[Project Name]** 
-- **Description:** A brief description of the project highlighting the key technologies used.
-- **Technologies Used:** Kubernetes, Terraform, Jenkins.
-- **Link to project:** [View Project](#)
 
 ## 📈 GitHub Stats
 
